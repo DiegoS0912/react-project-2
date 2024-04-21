@@ -1,5 +1,5 @@
 .weather {
-    background-color: rgba(79, 95, 123, 0.667);
+    background-color: rgba(104, 126, 163, 0.338);
     padding: 30px;
     border-radius: 30px;
     display: flex;
@@ -20,8 +20,8 @@
     border-radius: 5px;
 }
 .form_btn {
-    background-color: rgba(41, 36, 32, 0.484);
-    color: rgb(44, 243, 226);
+    background-color: rgba(122, 72, 30, 0.484);
+    color: rgb(194, 219, 216);
     padding: 5px 10px;
     border-radius: 5px;
 }
@@ -68,8 +68,8 @@
     text-align: center;
 }
 .weather_btn {
-    background-color: rgba(41, 36, 32, 0.484);
-    color: rgb(44, 243, 226);
+    background-color: rgba(122, 72, 30, 0.484);
+    color: rgb(194, 219, 216);
     padding: 6px 15px;
     border-radius: 5px;
     transition: transform .25s,

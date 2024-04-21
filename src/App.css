@@ -14,7 +14,7 @@ html {
 }
 body {
   background-color: black;
-  color: rgb(44, 243, 226);
+  color: rgb(194, 219, 216);
 }
 img {
   max-width: 100%;
@@ -33,7 +33,7 @@ ul {
   list-style: none;
 }
 .app {
-  background-image: url('https://cdn.dribbble.com/users/2129935/screenshots/12694549/hand_drawn_animations_6.gif');
+  background-image: url('https://content.nationalgeographic.com.es/medio/2022/12/01/perfect-mirror_c5a8b00a_221201173058_2000x1333.jpg');
   background-size: 90%;
   background-position: center;
   min-height: 100vh;
